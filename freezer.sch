@@ -52,7 +52,7 @@ U 1 1 5CFF5A32
 P 1850 10225
 F 0 "R6" V 1925 10225 50  0000 C CNN
 F 1 "10R" V 1850 10225 50  0000 C CNN
-F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical_silkvalue" V 1780 10225 50  0001 C CNN
+F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal_silkvalue" V 1780 10225 50  0001 C CNN
 F 3 "~" H 1850 10225 50  0001 C CNN
 	1    1850 10225
 	0    -1   -1   0   
@@ -63,7 +63,7 @@ U 1 1 5CFF5EA6
 P 1850 10625
 F 0 "R7" V 1750 10625 50  0000 C CNN
 F 1 "10R" V 1850 10625 50  0000 C CNN
-F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical_silkvalue" V 1780 10625 50  0001 C CNN
+F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal_silkvalue" V 1780 10625 50  0001 C CNN
 F 3 "~" H 1850 10625 50  0001 C CNN
 	1    1850 10625
 	0    -1   -1   0   
@@ -320,7 +320,7 @@ U 1 1 5FD028BB
 P 5250 10450
 F 0 "C10" H 5000 10500 50  0000 L CNN
 F 1 "10u" H 4950 10400 50  0000 L CNN
-F 2 "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm" H 5288 10300 50  0001 C CNN
+F 2 "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" H 5288 10300 50  0001 C CNN
 F 3 "~" H 5250 10450 50  0001 C CNN
 	1    5250 10450
 	1    0    0    -1  
@@ -437,7 +437,7 @@ L Analog_ADC:MCP3201 U6
 U 1 1 5FC61B99
 P 9250 2400
 F 0 "U6" H 9500 2900 50  0000 C CNN
-F 1 "MCP3201_CI_P" H 9700 2800 50  0000 C CNN
+F 1 "MCP3201" H 9700 2800 50  0000 C CNN
 F 2 "Package_DIP:DIP-8_W7.62mm_Socket_LongPads" H 10000 2050 50  0001 C CNN
 F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/21290D.pdf" H 10050 2300 50  0001 C CNN
 	1    9250 2400
@@ -490,7 +490,7 @@ U 1 1 5FD3B251
 P 1300 7500
 F 0 "R1" V 1375 7500 50  0000 C CNN
 F 1 "100" V 1300 7500 50  0000 C CNN
-F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical_silkvalue" V 1230 7500 50  0001 C CNN
+F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal_silkvalue" V 1230 7500 50  0001 C CNN
 F 3 "~" H 1300 7500 50  0001 C CNN
 	1    1300 7500
 	0    -1   -1   0   
@@ -501,7 +501,7 @@ U 1 1 5FD3C2F8
 P 4250 6800
 F 0 "R2" V 4325 6800 50  0000 C CNN
 F 1 "100" V 4250 6800 50  0000 C CNN
-F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical_silkvalue" V 4180 6800 50  0001 C CNN
+F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal_silkvalue" V 4180 6800 50  0001 C CNN
 F 3 "~" H 4250 6800 50  0001 C CNN
 	1    4250 6800
 	0    -1   -1   0   
@@ -514,7 +514,7 @@ U 1 1 5FD3DCA2
 P 1300 7700
 F 0 "R3" V 1375 7700 50  0000 C CNN
 F 1 "100" V 1300 7700 50  0000 C CNN
-F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical_silkvalue" V 1230 7700 50  0001 C CNN
+F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal_silkvalue" V 1230 7700 50  0001 C CNN
 F 3 "~" H 1300 7700 50  0001 C CNN
 	1    1300 7700
 	0    -1   -1   0   
@@ -679,7 +679,7 @@ U 1 1 5FDBB489
 P 13400 5150
 F 0 "R15" V 13475 5150 50  0000 C CNN
 F 1 "100k" V 13400 5150 50  0000 C CNN
-F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical_silkvalue" V 13330 5150 50  0001 C CNN
+F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal_silkvalue" V 13330 5150 50  0001 C CNN
 F 3 "~" H 13400 5150 50  0001 C CNN
 	1    13400 5150
 	0    -1   -1   0   
@@ -690,7 +690,7 @@ U 1 1 5FDBE3C5
 P 14150 5150
 F 0 "R21" V 14225 5150 50  0000 C CNN
 F 1 "100k" V 14150 5150 50  0000 C CNN
-F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical_silkvalue" V 14080 5150 50  0001 C CNN
+F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal_silkvalue" V 14080 5150 50  0001 C CNN
 F 3 "~" H 14150 5150 50  0001 C CNN
 	1    14150 5150
 	0    -1   -1   0   
@@ -701,7 +701,7 @@ U 1 1 5FDBED77
 P 13400 5700
 F 0 "R16" V 13475 5700 50  0000 C CNN
 F 1 "100k" V 13400 5700 50  0000 C CNN
-F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical_silkvalue" V 13330 5700 50  0001 C CNN
+F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal_silkvalue" V 13330 5700 50  0001 C CNN
 F 3 "~" H 13400 5700 50  0001 C CNN
 	1    13400 5700
 	0    -1   -1   0   
@@ -737,7 +737,7 @@ U 1 1 5FDE867D
 P 13400 5900
 F 0 "R17" V 13475 5900 50  0000 C CNN
 F 1 "100k" V 13400 5900 50  0000 C CNN
-F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical_silkvalue" V 13330 5900 50  0001 C CNN
+F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal_silkvalue" V 13330 5900 50  0001 C CNN
 F 3 "~" H 13400 5900 50  0001 C CNN
 	1    13400 5900
 	0    -1   -1   0   
@@ -785,7 +785,7 @@ U 1 1 5FDFECAF
 P 6950 10100
 F 0 "R10" V 7025 10100 50  0000 C CNN
 F 1 "10k" V 6950 10100 50  0000 C CNN
-F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical_silkvalue" V 6880 10100 50  0001 C CNN
+F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal_silkvalue" V 6880 10100 50  0001 C CNN
 F 3 "~" H 6950 10100 50  0001 C CNN
 	1    6950 10100
 	1    0    0    -1  
@@ -924,7 +924,7 @@ U 1 1 5FE889C8
 P 13400 7100
 F 0 "R18" V 13475 7100 50  0000 C CNN
 F 1 "100k" V 13400 7100 50  0000 C CNN
-F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical_silkvalue" V 13330 7100 50  0001 C CNN
+F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal_silkvalue" V 13330 7100 50  0001 C CNN
 F 3 "~" H 13400 7100 50  0001 C CNN
 	1    13400 7100
 	0    -1   -1   0   
@@ -935,7 +935,7 @@ U 1 1 5FE889CE
 P 14150 7100
 F 0 "R22" V 14225 7100 50  0000 C CNN
 F 1 "100k" V 14150 7100 50  0000 C CNN
-F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical_silkvalue" V 14080 7100 50  0001 C CNN
+F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal_silkvalue" V 14080 7100 50  0001 C CNN
 F 3 "~" H 14150 7100 50  0001 C CNN
 	1    14150 7100
 	0    -1   -1   0   
@@ -946,7 +946,7 @@ U 1 1 5FE889D4
 P 13400 7650
 F 0 "R19" V 13475 7650 50  0000 C CNN
 F 1 "100k" V 13400 7650 50  0000 C CNN
-F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical_silkvalue" V 13330 7650 50  0001 C CNN
+F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal_silkvalue" V 13330 7650 50  0001 C CNN
 F 3 "~" H 13400 7650 50  0001 C CNN
 	1    13400 7650
 	0    -1   -1   0   
@@ -982,7 +982,7 @@ U 1 1 5FE889E9
 P 13400 7850
 F 0 "R20" V 13475 7850 50  0000 C CNN
 F 1 "100k" V 13400 7850 50  0000 C CNN
-F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical_silkvalue" V 13330 7850 50  0001 C CNN
+F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal_silkvalue" V 13330 7850 50  0001 C CNN
 F 3 "~" H 13400 7850 50  0001 C CNN
 	1    13400 7850
 	0    -1   -1   0   
@@ -1194,12 +1194,12 @@ CV_CH_2
 $Comp
 L Transistor_BJT:2N3904 Q1
 U 1 1 6007F993
-P 13800 3150
-F 0 "Q1" H 13990 3196 50  0000 L CNN
-F 1 "2N3904" H 13990 3105 50  0000 L CNN
-F 2 "Package_TO_SOT_THT:TO-92_Inline_Wide" H 14000 3075 50  0001 L CIN
-F 3 "https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf" H 13800 3150 50  0001 L CNN
-	1    13800 3150
+P 14200 3150
+F 0 "Q1" H 14390 3196 50  0000 L CNN
+F 1 "2N3904" H 14390 3105 50  0000 L CNN
+F 2 "Package_TO_SOT_THT:TO-92_Inline_Wide" H 14400 3075 50  0001 L CIN
+F 3 "https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf" H 14200 3150 50  0001 L CNN
+	1    14200 3150
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -1208,7 +1208,7 @@ U 1 1 60081B50
 P 13350 3150
 F 0 "R12" V 13425 3150 50  0000 C CNN
 F 1 "100k" V 13350 3150 50  0000 C CNN
-F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical_silkvalue" V 13280 3150 50  0001 C CNN
+F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal_silkvalue" V 13280 3150 50  0001 C CNN
 F 3 "~" H 13350 3150 50  0001 C CNN
 	1    13350 3150
 	0    -1   -1   0   
@@ -1216,12 +1216,12 @@ $EndComp
 $Comp
 L Device:R R14
 U 1 1 60083ABE
-P 13900 2650
-F 0 "R14" V 13975 2650 50  0000 C CNN
-F 1 "10k" V 13900 2650 50  0000 C CNN
-F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical_silkvalue" V 13830 2650 50  0001 C CNN
-F 3 "~" H 13900 2650 50  0001 C CNN
-	1    13900 2650
+P 14300 2650
+F 0 "R14" V 14375 2650 50  0000 C CNN
+F 1 "10k" V 14300 2650 50  0000 C CNN
+F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal_silkvalue" V 14230 2650 50  0001 C CNN
+F 3 "~" H 14300 2650 50  0001 C CNN
+	1    14300 2650
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -1230,7 +1230,7 @@ U 1 1 600841DF
 P 13550 3400
 F 0 "R13" V 13625 3400 50  0000 C CNN
 F 1 "1M" V 13550 3400 50  0000 C CNN
-F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical_silkvalue" V 13480 3400 50  0001 C CNN
+F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal_silkvalue" V 13480 3400 50  0001 C CNN
 F 3 "~" H 13550 3400 50  0001 C CNN
 	1    13550 3400
 	1    0    0    -1  
@@ -1238,12 +1238,12 @@ $EndComp
 $Comp
 L power:GND #PWR027
 U 1 1 60089FBB
-P 13900 3600
-F 0 "#PWR027" H 13900 3350 50  0001 C CNN
-F 1 "GND" H 13975 3425 50  0000 R CNN
-F 2 "" H 13900 3600 50  0001 C CNN
-F 3 "" H 13900 3600 50  0001 C CNN
-	1    13900 3600
+P 14300 3600
+F 0 "#PWR027" H 14300 3350 50  0001 C CNN
+F 1 "GND" H 14375 3425 50  0000 R CNN
+F 2 "" H 14300 3600 50  0001 C CNN
+F 3 "" H 14300 3600 50  0001 C CNN
+	1    14300 3600
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -1257,34 +1257,32 @@ F 3 "" H 13550 3550 50  0001 C CNN
 	1    13550 3550
 	1    0    0    -1  
 $EndComp
-Text GLabel 13950 2900 2    50   Input ~ 0
+Text GLabel 14350 2900 2    50   Input ~ 0
 IN_TRIGGER
 $Comp
 L power:+5V #PWR026
 U 1 1 6008B54E
-P 13900 2500
-F 0 "#PWR026" H 13900 2350 50  0001 C CNN
-F 1 "+5V" H 13915 2673 50  0000 C CNN
-F 2 "" H 13900 2500 50  0001 C CNN
-F 3 "" H 13900 2500 50  0001 C CNN
-	1    13900 2500
+P 14300 2500
+F 0 "#PWR026" H 14300 2350 50  0001 C CNN
+F 1 "+5V" H 14315 2673 50  0000 C CNN
+F 2 "" H 14300 2500 50  0001 C CNN
+F 3 "" H 14300 2500 50  0001 C CNN
+	1    14300 2500
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	13900 2800 13900 2900
+	14300 2800 14300 2900
 Wire Wire Line
-	13950 2900 13900 2900
-Connection ~ 13900 2900
+	14350 2900 14300 2900
+Connection ~ 14300 2900
 Wire Wire Line
-	13900 2900 13900 2950
+	14300 2900 14300 2950
 Wire Wire Line
-	13900 3350 13900 3600
+	14300 3350 14300 3600
 Wire Wire Line
 	13550 3150 13500 3150
 Wire Wire Line
 	13550 3250 13550 3150
-Wire Wire Line
-	13550 3150 13600 3150
 Connection ~ 13550 3150
 Text GLabel 13200 3150 0    50   Input ~ 0
 TRIGGER_jack
@@ -1294,7 +1292,7 @@ U 1 1 6011ACC2
 P 5350 2100
 F 0 "R5" V 5425 2100 50  0000 C CNN
 F 1 "100k" V 5350 2100 50  0000 C CNN
-F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical_silkvalue" V 5280 2100 50  0001 C CNN
+F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal_silkvalue" V 5280 2100 50  0001 C CNN
 F 3 "~" H 5350 2100 50  0001 C CNN
 	1    5350 2100
 	0    -1   -1   0   
@@ -1305,7 +1303,7 @@ U 1 1 601236E5
 P 6150 1650
 F 0 "R8" V 6225 1650 50  0000 C CNN
 F 1 "50k" V 6150 1650 50  0000 C CNN
-F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical_silkvalue" V 6080 1650 50  0001 C CNN
+F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal_silkvalue" V 6080 1650 50  0001 C CNN
 F 3 "~" H 6150 1650 50  0001 C CNN
 	1    6150 1650
 	0    -1   -1   0   
@@ -1327,7 +1325,7 @@ U 1 1 6015609A
 P 6900 2200
 F 0 "R9" V 6975 2200 50  0000 C CNN
 F 1 "100k" V 6900 2200 50  0000 C CNN
-F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical_silkvalue" V 6830 2200 50  0001 C CNN
+F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal_silkvalue" V 6830 2200 50  0001 C CNN
 F 3 "~" H 6900 2200 50  0001 C CNN
 	1    6900 2200
 	0    -1   -1   0   
@@ -1338,7 +1336,7 @@ U 1 1 601565E7
 P 7700 1650
 F 0 "R11" V 7775 1650 50  0000 C CNN
 F 1 "100k" V 7700 1650 50  0000 C CNN
-F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical_silkvalue" V 7630 1650 50  0001 C CNN
+F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal_silkvalue" V 7630 1650 50  0001 C CNN
 F 3 "~" H 7700 1650 50  0001 C CNN
 	1    7700 1650
 	0    -1   -1   0   
@@ -1509,7 +1507,7 @@ U 1 1 6021BC73
 P 7050 4000
 F 0 "R23" V 7125 4000 50  0000 C CNN
 F 1 "50k" V 7050 4000 50  0000 C CNN
-F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical_silkvalue" V 6980 4000 50  0001 C CNN
+F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal_silkvalue" V 6980 4000 50  0001 C CNN
 F 3 "~" H 7050 4000 50  0001 C CNN
 	1    7050 4000
 	0    -1   -1   0   
@@ -1520,7 +1518,7 @@ U 1 1 6021FD27
 P 7750 3500
 F 0 "R24" V 7825 3500 50  0000 C CNN
 F 1 "100k" V 7750 3500 50  0000 C CNN
-F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical_silkvalue" V 7680 3500 50  0001 C CNN
+F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal_silkvalue" V 7680 3500 50  0001 C CNN
 F 3 "~" H 7750 3500 50  0001 C CNN
 	1    7750 3500
 	0    -1   -1   0   
@@ -1854,7 +1852,7 @@ U 1 1 604E9487
 P 2900 2800
 F 0 "R4" V 2975 2800 50  0000 C CNN
 F 1 "1k" V 2900 2800 50  0000 C CNN
-F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical_silkvalue" V 2830 2800 50  0001 C CNN
+F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal_silkvalue" V 2830 2800 50  0001 C CNN
 F 3 "~" H 2900 2800 50  0001 C CNN
 	1    2900 2800
 	0    -1   -1   0   
@@ -1865,7 +1863,7 @@ U 1 1 604E7411
 P 3250 2800
 F 0 "D1" H 3243 2545 50  0000 C CNN
 F 1 "LED" H 3243 2636 50  0000 C CNN
-F 2 "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 3250 2800 50  0001 C CNN
+F 2 "LED_THT:LED_D5.0mm" H 3250 2800 50  0001 C CNN
 F 3 "~" H 3250 2800 50  0001 C CNN
 	1    3250 2800
 	-1   0    0    1   
@@ -2002,7 +2000,7 @@ U 1 1 607A7157
 P 6550 2900
 F 0 "R25" V 6625 2900 50  0000 C CNN
 F 1 "30k" V 6550 2900 50  0000 C CNN
-F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical_silkvalue" V 6480 2900 50  0001 C CNN
+F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal_silkvalue" V 6480 2900 50  0001 C CNN
 F 3 "~" H 6550 2900 50  0001 C CNN
 	1    6550 2900
 	0    -1   -1   0   
@@ -2013,7 +2011,7 @@ U 1 1 607A7692
 P 7000 2900
 F 0 "R26" V 7075 2900 50  0000 C CNN
 F 1 "10k" V 7000 2900 50  0000 C CNN
-F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical_silkvalue" V 6930 2900 50  0001 C CNN
+F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal_silkvalue" V 6930 2900 50  0001 C CNN
 F 3 "~" H 7000 2900 50  0001 C CNN
 	1    7000 2900
 	0    -1   -1   0   
@@ -2132,7 +2130,7 @@ U 1 1 60D845AE
 P 6550 6800
 F 0 "R27" V 6625 6800 50  0000 C CNN
 F 1 "100" V 6550 6800 50  0000 C CNN
-F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical_silkvalue" V 6480 6800 50  0001 C CNN
+F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal_silkvalue" V 6480 6800 50  0001 C CNN
 F 3 "~" H 6550 6800 50  0001 C CNN
 	1    6550 6800
 	0    -1   -1   0   
@@ -2147,7 +2145,7 @@ U 1 1 60D9CBCA
 P 10100 2400
 F 0 "R28" V 10175 2400 50  0000 C CNN
 F 1 "100" V 10100 2400 50  0000 C CNN
-F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical_silkvalue" V 10030 2400 50  0001 C CNN
+F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal_silkvalue" V 10030 2400 50  0001 C CNN
 F 3 "~" H 10100 2400 50  0001 C CNN
 	1    10100 2400
 	0    -1   -1   0   
@@ -2163,10 +2161,10 @@ Wire Wire Line
 Wire Wire Line
 	2700 3700 2750 3700
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0106
 U 1 1 60E6E6F2
 P 3250 3700
-F 0 "#PWR?" H 3250 3450 50  0001 C CNN
+F 0 "#PWR0106" H 3250 3450 50  0001 C CNN
 F 1 "GND" H 3300 3500 50  0000 R CNN
 F 2 "" H 3250 3700 50  0001 C CNN
 F 3 "" H 3250 3700 50  0001 C CNN
@@ -2174,25 +2172,56 @@ F 3 "" H 3250 3700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R R?
+L Device:R R29
 U 1 1 60E6E6F8
 P 2550 3700
-F 0 "R?" V 2625 3700 50  0000 C CNN
+F 0 "R29" V 2625 3700 50  0000 C CNN
 F 1 "470" V 2550 3700 50  0000 C CNN
-F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical_silkvalue" V 2480 3700 50  0001 C CNN
+F 2 "R_silkvalue:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal_silkvalue" V 2480 3700 50  0001 C CNN
 F 3 "~" H 2550 3700 50  0001 C CNN
 	1    2550 3700
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:LED D?
+L Device:LED D2
 U 1 1 60E6E6FE
 P 2900 3700
-F 0 "D?" H 2893 3445 50  0000 C CNN
+F 0 "D2" H 2893 3445 50  0000 C CNN
 F 1 "LED" H 2893 3536 50  0000 C CNN
 F 2 "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 2900 3700 50  0001 C CNN
 F 3 "~" H 2900 3700 50  0001 C CNN
 	1    2900 3700
 	-1   0    0    1   
 $EndComp
+$Comp
+L Diode:1N4148 D3
+U 1 1 60EFBEC1
+P 13900 3400
+F 0 "D3" V 13854 3480 50  0000 L CNN
+F 1 "1N4148" V 13945 3480 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 13900 3225 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 13900 3400 50  0001 C CNN
+	1    13900 3400
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	13550 3150 13900 3150
+Wire Wire Line
+	13900 3250 13900 3150
+Connection ~ 13900 3150
+Wire Wire Line
+	13900 3150 14000 3150
+$Comp
+L power:GND #PWR0107
+U 1 1 60F2C86B
+P 13900 3550
+F 0 "#PWR0107" H 13900 3300 50  0001 C CNN
+F 1 "GND" H 13975 3375 50  0000 R CNN
+F 2 "" H 13900 3550 50  0001 C CNN
+F 3 "" H 13900 3550 50  0001 C CNN
+	1    13900 3550
+	1    0    0    -1  
+$EndComp
+Text Notes 14650 3450 0    39   ~ 0
+diode protects from negative input voltage
 $EndSCHEMATC
