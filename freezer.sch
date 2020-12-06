@@ -537,28 +537,6 @@ Text GLabel 4700 6300 0    50   Input ~ 0
 CS_2
 Text GLabel 6900 6300 0    50   Input ~ 0
 CS_3
-$Comp
-L Mechanical:MountingHole_Pad H1
-U 1 1 5FD4E765
-P 10700 10400
-F 0 "H1" H 10800 10449 50  0000 L CNN
-F 1 "MountingHole_Pad" H 10800 10358 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3.2mm_M3" H 10700 10400 50  0001 C CNN
-F 3 "~" H 10700 10400 50  0001 C CNN
-	1    10700 10400
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GND #PWR052
-U 1 1 5FD50FC7
-P 10700 10500
-F 0 "#PWR052" H 10700 10250 50  0001 C CNN
-F 1 "GND" H 10775 10325 50  0000 R CNN
-F 2 "" H 10700 10500 50  0001 C CNN
-F 3 "" H 10700 10500 50  0001 C CNN
-	1    10700 10500
-	1    0    0    -1  
-$EndComp
 Text GLabel 4650 4000 0    50   Input ~ 0
 SCK
 Text GLabel 9750 2300 2    50   Input ~ 0
@@ -621,23 +599,23 @@ $EndComp
 $Comp
 L Amplifier_Operational:MCP6004 U5
 U 3 1 5FD7931A
-P 7650 2300
-F 0 "U5" H 7650 1933 50  0000 C CNN
-F 1 "MCP6004" H 7650 2024 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_Socket_LongPads" H 7600 2400 50  0001 C CNN
-F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf" H 7700 2500 50  0001 C CNN
-	3    7650 2300
+P 6350 4000
+F 0 "U5" H 6350 3633 50  0000 C CNN
+F 1 "MCP6004" H 6350 3724 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket_LongPads" H 6300 4100 50  0001 C CNN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf" H 6400 4200 50  0001 C CNN
+	3    6350 4000
 	1    0    0    1   
 $EndComp
 $Comp
 L Amplifier_Operational:MCP6004 U5
 U 4 1 5FD7A4DB
-P 6350 4000
-F 0 "U5" H 6350 4367 50  0000 C CNN
-F 1 "MCP6004" H 6350 4276 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_Socket_LongPads" H 6300 4100 50  0001 C CNN
-F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf" H 6400 4200 50  0001 C CNN
-	4    6350 4000
+P 7650 2300
+F 0 "U5" H 7650 2667 50  0000 C CNN
+F 1 "MCP6004" H 7650 2576 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket_LongPads" H 7600 2400 50  0001 C CNN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf" H 7700 2500 50  0001 C CNN
+	4    7650 2300
 	1    0    0    -1  
 $EndComp
 $Comp
