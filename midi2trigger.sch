@@ -2159,14 +2159,10 @@ Wire Wire Line
 NoConn ~ 2750 2400
 Text Notes 4100 3550 0    49   ~ 0
 no internal pullup on pin 13
-Connection ~ 3250 2400
 Wire Wire Line
 	3050 1350 3450 1350
 Wire Wire Line
 	3450 1550 3250 1550
-Wire Wire Line
-	3250 1550 3250 2400
-NoConn ~ 5450 2200
 NoConn ~ 6450 2800
 NoConn ~ 6450 2900
 NoConn ~ 6450 3000
@@ -2175,4 +2171,8 @@ NoConn ~ 6450 3200
 Wire Wire Line
 	5250 10300 5950 10300
 NoConn ~ 6450 2700
+Text GLabel 3250 1550 0    50   Input ~ 0
+MIDI_OUT
+Text GLabel 5450 2200 0    50   Input ~ 0
+MIDI_OUT
 $EndSCHEMATC
