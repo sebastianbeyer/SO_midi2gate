@@ -12,6 +12,6 @@ including the gerber files and Arduino code
 
 ## Schematic
 
-![schematic](./images/schematic_v1.0_small.png | width=200)
+![schematic](./images/schematic_v1.0_small.png)
 
 ## BOM
