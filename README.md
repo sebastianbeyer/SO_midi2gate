@@ -25,6 +25,7 @@ Install instructions for this lib can be found
 
 | Reference| Quantity | Value | Description |
 | -------- | -------- | ----- | ----------- |
+| A1  | 1 |  Arduino Nano | |
 | C1, C2, C5 |        3 | 10u   | EL cap      |
 | C3, C4, C6, C7, C8, C9, C10, C11 | 8 |100n | ceramic disc cap |
 | D1 | 1 | 1N4148 | diode |
@@ -39,4 +40,3 @@ Install instructions for this lib can be found
 | U1, U4, U5 | 3 | TL074 | opamp |
 | U2 | 1 | 6N137 | optocoupler for midi |
 | U3 | 1 | L7805 | 5V regulator |
-| ?  | 1 |  Arduino Nano | |
