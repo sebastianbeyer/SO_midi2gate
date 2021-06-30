@@ -31,9 +31,10 @@ Install instructions for this lib can be found
 | C1, C2, C5 |        3 | 10u   | EL cap      |
 | C3, C4, C6, C7, C8, C9, C10, C11 | 8 |100n | ceramic disc cap |
 | D1 | 1 | 1N4148 | diode |
-| D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13 | 12 | LED | |
+| D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13 | 12 | LED | legs should be
+25mm long|
 | J1, J2 | 2 | MIDI jacks | |
-| J1, J2 | 2 | Molex 3pin  | for MIDI jacks |
+| J1, J2 | 2 | Molex 3pin  | for MIDI jacks, you can also solder directly |
 | J3, ... J15 |12 | Large jack sockets | |
 | R1, R13, R14 | 3 | 220 | |
 | R2, R3 | 2 | 10R | |
