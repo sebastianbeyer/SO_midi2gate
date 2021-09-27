@@ -1,6 +1,6 @@
 Simple Midi to gate module with 12 gates. It's in the
 [KOSMO format](https://www.lookmumnocomputer.com/modular)
-made by Look Mum No Computer (20cm high, 10cm wide). Gates are 5V.
+made by Look Mum No Computer (20cm high, 7.5cm wide). Gates are 5V.
 
 <p float="middle">
   <img src="/images/midi2gate_photo1.jpg" width="300" />
